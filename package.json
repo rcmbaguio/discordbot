@@ -1,0 +1,11 @@
+{
+	"name": "Irukuku",
+	"version": "1.0.0",
+	"description": "sacc",
+	"main": "bot.js",
+	"author": "yourbuddy",
+	"dependencies": {
+		"discord.io": "^2.5.3",
+		"winston": "^3.2.1"
+	}
+}
